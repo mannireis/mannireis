@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning how to make js
+- 🌱 I’m currently learning how to program javascript
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
