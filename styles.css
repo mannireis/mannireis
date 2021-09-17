@@ -1,12 +1,47 @@
 * {
   margin: 0;
   padding: 0;
+
+  border-radius: 25px;
 }
 
+
 h1 {
-  font-family: sans-serif;
+  font-family: monospace;
+  margin-left: 32px;
+
 }
+
 nav {
-  background-color: green
-  
+  background-color: green;
+ padding: 10px;
+ border-radius: 0px;
+ margin-bottom: 10px;
+
+}
+
+p {
+ font-family: sans-serif;
+ padding: 10px;
+ text-align: center;
+
+div {
+  display: grid
+  grid-template-columns: 60px 60px;
+}
+
+}
+
+img{
+margin-left: 30px;
+margin-bottom:30px;
+
+}
+.test1 {
+
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+  margin-bottom:30px;
 }
