@@ -4,9 +4,8 @@
 }
 
 
-h1 h3{
-  font-family: monospace;
-
+h1,h3,a{
+font-family: 'Oswald', sans-serif;
 }
 
 nav {
@@ -28,7 +27,7 @@ header {
 }
 
 .profile,
-.readme {
+.readme{
   background-color: #FDF6C3;
   border: 1px solid #FCF19C;
   padding: 1rem;
@@ -44,5 +43,14 @@ header {
 }
 
 img {
-  border-radius: .5rem;
+  border-radius: 0.5rem;
+}
+a {
+  background-color: #FDF6C3;
+  border: 1px solid #FCF19C;
+  border-radius: 1rem;
+  margin: 1rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  color: black;
 }
