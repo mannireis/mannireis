@@ -9,3 +9,5 @@
 // let result = email.replace('itsmannireis','lukas');
 //
 // console.log(result);
+
+alert("sjsjsjjsjs")
